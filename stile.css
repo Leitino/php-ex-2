@@ -1,0 +1,17 @@
+.completato{
+  height: 50px;
+  background-color: lightgreen;
+  color:white;
+  border-bottom: 1px solid white;
+}
+.incompleto{
+  color:lightgrey;
+  height: 50px;
+  background-color: red;
+  border-bottom: 1px solid white;
+  cursor: pointer;
+}
+.flex{
+  display: flex;
+  align-items: center;
+}
